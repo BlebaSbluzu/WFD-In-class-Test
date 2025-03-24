@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb86a3f-8537-4bc5-b076-e9d5e352a4f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PartA/PartA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WFD-In-class-Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WFD-In-class-Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC/PartCSite/PartCSite/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartB/PartB.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartB/PartB.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in PartB.py.executor": "Run",
     "Python.PartA.executor": "Run",
+    "Python.PartB.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/bella/Desktop/College/Year3/Sem2/Web Framework Development/LectureTest1/WFD-In-class-Test",
@@ -64,14 +66,26 @@
       <option name="presentableId" value="Default" />
       <updated>1742779443385</updated>
       <workItem from="1742779444958" duration="11000" />
-      <workItem from="1742824933352" duration="3535000" />
+      <workItem from="1742824933352" duration="6375000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PartC/PartCSite/PartCSite/models.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/WFD_In_class_Test$PartA.coverage" NAME="PartA Coverage Results" MODIFIED="1742828469638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PartA" />
+    <SUITE FILE_PATH="coverage/WFD_In_class_Test$PartA.coverage" NAME="PartA Coverage Results" MODIFIED="1742828540459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PartA" />
+    <SUITE FILE_PATH="coverage/WFD_In_class_Test$PartB.coverage" NAME="PartB Coverage Results" MODIFIED="1742830077441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PartB" />
+    <SUITE FILE_PATH="coverage/WFD_In_class_Test$.coverage" NAME=" Coverage Results" MODIFIED="1742830784426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PartB" />
   </component>
 </project>
